@@ -10,12 +10,17 @@ Exercício de calcular a média aritmética de uma turma em Java para Faculdade
 3 - Perguntar ao usuário quantos alunos ele irá inserir.
 
 4 - Para cada aluno ele deverá perguntar:
+
 	a - Digite a nome do X(o) aluno(a);
+ 
 	b - Digite a nota do X(o) aluno(a);
  
 5- Ao final da execução seu programa deverá escrever:
+
 	a- A média da turma é {media}: 
+ 
 	b- A Maior nota da turma é: {nota}, do aluno {nomeAluno}.
+ 
 Para calcular a média faça:
 
 6 - Crie uma classe chamada CalculadoraDeMedias.

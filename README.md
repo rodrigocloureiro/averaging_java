@@ -26,7 +26,9 @@ Para calcular a média faça:
 6 - Crie uma classe chamada CalculadoraDeMedias.
 
 7 - Crie um método nessa classe para calcular a média aritmética. Recebendo como parâmetros: 
+
 	a - O valor total da soma das notas da turma.
+ 
 	b - A quantidade de alunos da turma.
  
 8 - Esse Método deve retornar um Double que é o valor da média.
